@@ -1,44 +1,40 @@
 # How To Reach Me
 
-<div style = "background-color: white;">
-
-<a href = "https://www.linkedin.com/in/tudorgalatan/" target = "_blank">
-    <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.linkedin.com/in/tudorgalatan/">
+    <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.facebook.com/galatantudor1" target = "_blank">
-    <img src = "Logos/Facebook.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.facebook.com/galatantudor1">
+    <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.youtube.com/channel/UCgs4BhXYtjD6sZI0FFgxcSA" target = "_blank">
-    <img src = "Logos/YouTube.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.instagram.com/tudorgalatan/">
+    <img src = "Logos/Instagram.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.instagram.com/tudorgalatan/" target = "_blank">
-    <img src = "Logos/Instagram.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://wa.me/40720914270">
+    <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://vk.com/tudorgalatan" target = "_blank">
-    <img src = "Logos/VKontakte.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.youtube.com/channel/UCgs4BhXYtjD6sZI0FFgxcSA">
+    <img src = "Logos/YouTube.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://twitter.com/tudorgalatan" target = "_blank">
-    <img src = "Logos/Twitter.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.tiktok.com/@galatantudor">
+    <img src = "Logos/TikTok.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.tiktok.com/@galatantudor" target = "_blank">
-    <img src = "Logos/TikTok.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://vk.com/tudorgalatan">
+    <img src = "Logos/VKontakte.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://wa.me/40720914270" target = "_blank">
-    <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://twitter.com/tudorgalatan">
+    <img src = "Logos/Twitter.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.twitch.tv/tudorgalatan" target = "_blank">
-    <img src = "Logos/Twitch.png" width = "auto" height = "50px" style = "margin: 20px;" />
+<a href = "https://www.twitch.tv/tudorgalatan">
+    <img src = "Logos/Twitch.png" width = "auto" height = "50px" />
 </a>
-
-</div>
 
 # Coding Profiles
 

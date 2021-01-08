@@ -1,3 +1,7 @@
+# About Me
+
+Hi! I'm Tudor, a Computer Science student in Iași, Romania. Besides Computer Science, I love to travel, I enjoy watching movies and listening to music and I am also passionate about finance and personal development.
+
 # How To Reach Me
 
 <a href = "https://www.linkedin.com/in/tudorgalatan/">

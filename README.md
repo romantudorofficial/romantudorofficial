@@ -57,16 +57,16 @@ You can find me on:
 
 # Personal GitHub Stats
 
-[![Tudor Gălățan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tudor Gălățan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/TudorGalatan?tab=repositories)
 
 # Personal Most Used Languages on GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/TudorGalatan?tab=repositories)
 
 # Top Repositories
 
-[![L Game](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![L Game](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark)](https://github.com/TudorGalatan/L-Game)
 
-[![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark)](https://github.com/TudorGalatan/Weather_Application)
 
-[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark)](https://github.com/TudorGalatan/Personal_Portfolio_Website)

@@ -32,4 +32,12 @@
 
 # Personal Most Used Languages on GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Top Repositories
+
+[![L Game](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

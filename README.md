@@ -29,3 +29,7 @@
 # Personal GitHub Stats
 
 [![Tudor Gălățan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Personal Most Used Languages on GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

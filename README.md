@@ -40,17 +40,20 @@ Hi! I'm Tudor, a Computer Science student in Iași, Romania. Besides Computer Sc
     <img src = "Logos/Twitch.png" width = "auto" height = "50px" />
 </a>
 
-# Coding Profiles
+# My Tech Profiles
 
-[Codeforces](https://codeforces.com/profile/TudorGalatan)
+You can find me on:
+- **[Codeforces][Codeforces]**
+- **[Virtual Judge][Virtual Judge]**
+- **[Pbinfo][Pbinfo]**
+- **[Infoarena][Infoarena]**
+- **[VianuArena][VianuArena]**
 
-[Virtual Judge](https://vjudge.net/user/tudorgalatan)
-
-[Pbinfo](https://www.pbinfo.ro/profil/tudorgalatan)
-
-[Infoarena](https://www.infoarena.ro/utilizator/tudorgalatan)
-
-[VianuArena](http://varena.ro/utilizator/tudorgalatan)
+[Codeforces]: https://codeforces.com/profile/TudorGalatan
+[Virtual Judge]: https://vjudge.net/user/tudorgalatan
+[Pbinfo]: https://www.pbinfo.ro/profil/tudorgalatan
+[Infoarena]: https://www.infoarena.ro/utilizator/tudorgalatan
+[VianuArena]: http://varena.ro/utilizator/tudorgalatan
 
 # Personal GitHub Stats
 

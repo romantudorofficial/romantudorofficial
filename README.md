@@ -63,10 +63,14 @@ You can find me on:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/TudorGalatan?tab=repositories)
 
-# Top Repositories
+# Personal Projects
 
 [![L Game](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark)](https://github.com/TudorGalatan/L-Game)
 
 [![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark)](https://github.com/TudorGalatan/Weather_Application)
 
 [![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark)](https://github.com/TudorGalatan/Personal_Portfolio_Website)
+
+# Tests for Job Applications
+
+[![Bitpanda - Junior Web Front-End Developer - Technical Test](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark)](https://github.com/TudorGalatan/Bitpanda_Junior_Front-End_Developer_Test)

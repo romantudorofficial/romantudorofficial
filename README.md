@@ -42,39 +42,45 @@ Hi! I'm Tudor, a Computer Science student living in Iași, Romania. Besides Comp
 </a>
 
 
-# GitHub Stats
+# Stats
 
-[![Tudor Gălățan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/TudorGalatan?tab=repositories)
+<a href = "https://github.com/TudorGalatan?tab=repositories">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark" align = "center" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/TudorGalatan?tab=repositories)
+<a href = "https://github.com/TudorGalatan?tab=repositories">
+  <img src = "https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
+</a>
 
 
 # Personal Projects
 
 <a href = "https://github.com/TudorGalatan/L-Game">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Weather_Application">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center"  style = "padding-bottom: 20px;" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Personal_Portfolio_Website">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" />
 </a>
 
 
 # Learning
 
 <a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Competitive_Programming_Training">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark" align = "center" />
 </a>
 
 
 # Tests for Job Applications
 
-[![Bitpanda - Junior Web Front-End Developer - Technical Test](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark)](https://github.com/TudorGalatan/Bitpanda_Junior_Front-End_Developer_Test)
+<a href = "https://github.com/TudorGalatan/Bitpanda_Junior_Front-End_Developer_Test">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark" align = "center" />
+</a>

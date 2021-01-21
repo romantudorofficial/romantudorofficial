@@ -1,6 +1,7 @@
 # About Me
 
-Hi! I'm Tudor, a Computer Science student in Iași, Romania. Besides Computer Science, I love to travel, I enjoy watching movies and listening to music and I am also passionate about finance and personal development.
+Hi! I'm Tudor, a Computer Science student living in Iași, Romania. Besides Computer Science, I like to spend my time travelling, watching movies and listening to music. I am also passionate about finance and personal development.
+
 
 # How To Reach Me
 
@@ -40,36 +41,39 @@ Hi! I'm Tudor, a Computer Science student in Iași, Romania. Besides Computer Sc
     <img src = "Logos/Twitch.png" width = "auto" height = "50px" />
 </a>
 
-# My Tech Profiles
 
-You can find me on:
-- **[Codeforces][Codeforces]**
-- **[Virtual Judge][Virtual Judge]**
-- **[Pbinfo][Pbinfo]**
-- **[Infoarena][Infoarena]**
-- **[VianuArena][VianuArena]**
-
-[Codeforces]: https://codeforces.com/profile/TudorGalatan
-[Virtual Judge]: https://vjudge.net/user/tudorgalatan
-[Pbinfo]: https://www.pbinfo.ro/profil/tudorgalatan
-[Infoarena]: https://www.infoarena.ro/utilizator/tudorgalatan
-[VianuArena]: http://varena.ro/utilizator/tudorgalatan
-
-# Personal GitHub Stats
+# GitHub Stats
 
 [![Tudor Gălățan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/TudorGalatan?tab=repositories)
 
-# Personal Most Used Languages on GitHub
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark)](https://github.com/TudorGalatan?tab=repositories)
+
 
 # Personal Projects
 
-[![L Game](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark)](https://github.com/TudorGalatan/L-Game)
+<a href = "https://github.com/TudorGalatan/L-Game">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+</a>
 
-[![Weather Application](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark)](https://github.com/TudorGalatan/Weather_Application)
+<a href = "https://github.com/TudorGalatan/Weather_Application">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center"  style = "padding-bottom: 20px;" />
+</a>
 
-[![Personal Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark)](https://github.com/TudorGalatan/Personal_Portfolio_Website)
+<a href = "https://github.com/TudorGalatan/Personal_Portfolio_Website">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+</a>
+
+
+# Learning
+
+<a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/Competitive_Programming_Training">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark" align = "center" style = "padding-bottom: 20px;" />
+</a>
+
 
 # Tests for Job Applications
 

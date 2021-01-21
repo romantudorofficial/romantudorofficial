@@ -56,31 +56,31 @@ Hi! I'm Tudor, a Computer Science student living in Iași, Romania. Besides Comp
 # Personal Projects
 
 <a href = "https://github.com/TudorGalatan/L-Game">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark&hide_border=true" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Weather_Application">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark&hide_border=true" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Personal_Portfolio_Website">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark&hide_border=true" align = "center" />
 </a>
 
 
 # Learning
 
 <a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark&hide_border=true" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/Competitive_Programming_Training">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark&hide_border=true" align = "center" />
 </a>
 
 
 # Tests for Job Applications
 
 <a href = "https://github.com/TudorGalatan/Bitpanda_Junior_Front-End_Developer_Test">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark&hide_border=true" align = "center" />
 </a>

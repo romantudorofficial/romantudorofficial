@@ -49,7 +49,7 @@ Hi! I'm Tudor, a Computer Science student living in Iași, Romania. Besides Comp
 </a>
 
 <a href = "https://github.com/TudorGalatan?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark&layout=compact&card_width=273" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
 </a>
 
 

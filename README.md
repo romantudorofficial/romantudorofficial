@@ -1,6 +1,10 @@
 # About Me
 
-Hi! I'm Tudor, a Computer Science student from Vatra Dornei, Romania who currently lives in Iași, Romania. Besides Computer Science, I like to spend my time travelling, watching movies and listening to music. I am also passionate about finance and personal development.
+Hello! My name is Tudor Gălățan and I am a Software Engineer and a Computer Science student.
+
+- Place of birth: Vatra Dornei, Romania
+- Current Location: Iași, Romania
+- Birthdate: 08.01.1999
 
 
 # How To Reach Me
@@ -9,7 +13,7 @@ Hi! I'm Tudor, a Computer Science student from Vatra Dornei, Romania who current
     <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.facebook.com/galatantudor1">
+<a href = "https://www.facebook.com/tudorgalatan/">
     <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
 
@@ -21,11 +25,11 @@ Hi! I'm Tudor, a Computer Science student from Vatra Dornei, Romania who current
     <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.youtube.com/channel/UCgs4BhXYtjD6sZI0FFgxcSA">
+<a href = "https://www.youtube.com/@tudorgalatan1/">
     <img src = "Logos/YouTube.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.tiktok.com/@galatantudor">
+<a href = "https://www.tiktok.com/@tudorgalatan">
     <img src = "Logos/TikTok.png" width = "auto" height = "50px" />
 </a>
 
@@ -74,12 +78,12 @@ Hi! I'm Tudor, a Computer Science student from Vatra Dornei, Romania who current
 
 # Learning
 
-<a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
+<a href = "https://github.com/TudorGalatan/Programming_Training">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Programming_Training&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Competitive_Programming_Training">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Competitive_Programming_Training&theme=dark" align = "center" />
+<a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
 </a>
 
 <a href = "https://github.com/TudorGalatan/HTML_Study_Place">
@@ -93,8 +97,32 @@ Hi! I'm Tudor, a Computer Science student from Vatra Dornei, Romania who current
 
 # University
 
-<a href = "https://github.com/TudorGalatan/GalatanTudorE3">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=GalatanTudorE3&theme=dark" align = "center" />
+<a href = "https://github.com/TudorGalatan/University_DBMSPractice">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_DBMSPractice&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_AlgorithmDesign">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_AlgorithmDesign&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_ProbabilitiesAndStatistics">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_ProbabilitiesAndStatistics&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_FunctionalProgramming">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_FunctionalProgramming&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_AdvancedProgramming">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_AdvancedProgramming&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_WebTechnologies">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_WebTechnologies&theme=dark" align = "center" />
+</a>
+
+<a href = "https://github.com/TudorGalatan/University_SoftwareEngineering">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_SoftwareEngineering&theme=dark" align = "center" />
 </a>
 
 

@@ -13,9 +13,13 @@ Hello! My name is Roman Tudor and I am a Computer Science student, currently enr
     <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
+&nbsp;
+
 <a href = "https://www.facebook.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
+
+&nbsp;
 
 <a href = "https://www.instagram.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Instagram.png" width = "auto" height = "50px" />
@@ -47,6 +51,8 @@ Hello! My name is Roman Tudor and I am a Computer Science student, currently enr
 <a href = "https://github.com/romantudorofficial?tab=repositories" target = "_blank">
     <img src = "https://github-readme-stats.vercel.app/api?username=romantudorofficial&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
 </a>
+
+&nbsp;
 
 <a href = "https://github.com/romantudorofficial?tab=repositories" target = "_blank">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=romantudorofficial&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />

@@ -1,137 +1,143 @@
 # About Me
 
-Hello! My name is Tudor Gălățan and I am a Software Engineer and a Computer Science student.
+Hello! My name is Roman Tudor and I am a Computer Science student, currently enrolled in the 2<sup>nd</sup> year.
 
-- Place of birth: Vatra Dornei, Romania
-- Current Location: Iași, Romania
+- Place of birth: Vatra Dornei, Suceava County, Romania
+- Current Location: Iași, Iași County, Romania
 - Birthdate: 08.01.1999
 
 
 # How To Reach Me
 
-<a href = "https://www.linkedin.com/in/tudorgalatan/">
+<a href = "https://www.linkedin.com/in/romantudorofficial" target = "_blank">
     <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.facebook.com/tudorgalatan/">
+&emsp;
+
+<a href = "https://www.facebook.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.instagram.com/tudorgalatan/">
+&emsp;
+
+<a href = "https://www.instagram.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Instagram.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://wa.me/40720914270">
+&emsp;
+
+<a href = "https://wa.me/40720914270" target = "_blank">
     <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.youtube.com/@tudorgalatan1/">
+&emsp;
+
+<a href = "https://www.youtube.com/@RomanTudorOfficial" target = "_blank">
     <img src = "Logos/YouTube.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.tiktok.com/@tudorgalatan">
+&emsp;
+
+<a href = "https://www.tiktok.com/@romantudorofficial" target = "_blank">
     <img src = "Logos/TikTok.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://vk.com/tudorgalatan">
-    <img src = "Logos/VKontakte.png" width = "auto" height = "50px" />
+&emsp;
+
+<a href = "https://x.com/romantudoroff" target = "_blank">
+    <img src = "Logos/X.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://twitter.com/tudorgalatan">
-    <img src = "Logos/Twitter.png" width = "auto" height = "50px" />
-</a>
+&emsp;
 
-<a href = "https://www.twitch.tv/tudorgalatan">
+<a href = "https://www.twitch.tv/romantudor" target = "_blank">
     <img src = "Logos/Twitch.png" width = "auto" height = "50px" />
 </a>
 
 
 # Stats
 
-<a href = "https://github.com/TudorGalatan?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api?username=TudorGalatan&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
+<a href = "https://github.com/romantudorofficial?tab=repositories" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api?username=romantudorofficial&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TudorGalatan&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
+<a href = "https://github.com/romantudorofficial?tab=repositories" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=romantudorofficial&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
 </a>
 
 
 # Personal Projects
 
-<a href = "https://github.com/TudorGalatan/L-Game">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=L-Game&theme=dark&hide_border" align = "center" />
+<a href = "https://github.com/romantudorofficial/L-Game" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=L-Game&theme=dark&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Weather_Application">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Weather_Application&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Weather_Application" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Weather_Application&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Personal_Portfolio_Website">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Personal_Portfolio_Website&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Personal_Portfolio_Website" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Personal_Portfolio_Website&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Email_Signature">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Email_Signature&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Email_Signature" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Email_Signature&theme=dark" align = "center" />
 </a>
 
 
 # Learning
 
-<a href = "https://github.com/TudorGalatan/Programming_Training">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Programming_Training&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Programming_Training" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Programming_Training&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Data_Structures_and_Algorithms.cpp">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Data_Structures_and_Algorithms.cpp" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Data_Structures_and_Algorithms.cpp&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/HTML_Study_Place">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=HTML_Study_Place&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/HTML_Study_Place" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=HTML_Study_Place&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/JavaScript_Study_Place">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=JavaScript_Study_Place&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/JavaScript_Study_Place" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=JavaScript_Study_Place&theme=dark" align = "center" />
 </a>
 
 
 # University
 
-<a href = "https://github.com/TudorGalatan/University_DBMSPractice">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_DBMSPractice&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_DBMSPractice" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_DBMSPractice&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/University_AlgorithmDesign">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_AlgorithmDesign&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_AlgorithmDesign" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_AlgorithmDesign&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/University_ProbabilitiesAndStatistics">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_ProbabilitiesAndStatistics&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_ProbabilitiesAndStatistics" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_ProbabilitiesAndStatistics&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/University_FunctionalProgramming">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_FunctionalProgramming&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_FunctionalProgramming" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_FunctionalProgramming&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/University_AdvancedProgramming">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_AdvancedProgramming&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_WebTechnologies" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_WebTechnologies&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/University_WebTechnologies">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_WebTechnologies&theme=dark" align = "center" />
-</a>
-
-<a href = "https://github.com/TudorGalatan/University_SoftwareEngineering">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=University_SoftwareEngineering&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/University_SoftwareEngineering" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=University_SoftwareEngineering&theme=dark" align = "center" />
 </a>
 
 
 # Tests for Job Applications
 
-<a href = "https://github.com/TudorGalatan/Bitpanda_Junior_Front-End_Developer_Test">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Bitpanda_Junior_Front-End_Developer_Test" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Bitpanda_Junior_Front-End_Developer_Test&theme=dark" align = "center" />
 </a>
 
-<a href = "https://github.com/TudorGalatan/Elevator">
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=TudorGalatan&repo=Elevator&theme=dark" align = "center" />
+<a href = "https://github.com/romantudorofficial/Elevator" target = "_blank">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=romantudorofficial&repo=Elevator&theme=dark" align = "center" />
 </a>

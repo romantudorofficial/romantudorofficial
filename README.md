@@ -13,43 +13,29 @@ Hello! My name is Roman Tudor and I am a Computer Science student, currently enr
     <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
-&emsp;
-
 <a href = "https://www.facebook.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
 </a>
-
-&emsp;
 
 <a href = "https://www.instagram.com/romantudorofficial" target = "_blank">
     <img src = "Logos/Instagram.png" width = "auto" height = "50px" />
 </a>
 
-&emsp;
-
 <a href = "https://wa.me/40720914270" target = "_blank">
     <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" />
 </a>
-
-&emsp;
 
 <a href = "https://www.youtube.com/@RomanTudorOfficial" target = "_blank">
     <img src = "Logos/YouTube.png" width = "auto" height = "50px" />
 </a>
 
-&emsp;
-
 <a href = "https://www.tiktok.com/@romantudorofficial" target = "_blank">
     <img src = "Logos/TikTok.png" width = "auto" height = "50px" />
 </a>
 
-&emsp;
-
 <a href = "https://x.com/romantudoroff" target = "_blank">
     <img src = "Logos/X.png" width = "auto" height = "50px" />
 </a>
-
-&emsp;
 
 <a href = "https://www.twitch.tv/romantudor" target = "_blank">
     <img src = "Logos/Twitch.png" width = "auto" height = "50px" />

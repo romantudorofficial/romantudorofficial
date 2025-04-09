@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Roman Tudor and I am a Computer Science student, currently enrolled in the 2<sup>nd</sup> year.
+Hi! My name is Roman Tudor and I am a Computer Science student, currently enrolled in the 3<sup>rd</sup> year.
 
 - Place of birth: Vatra Dornei, Suceava County, Romania
 - Current Location: Iași, Iași County, Romania
@@ -37,7 +37,7 @@ Hello! My name is Roman Tudor and I am a Computer Science student, currently enr
     <img src = "Logos/X.png" width = "auto" height = "50px" />
 </a>
 
-<a href = "https://www.twitch.tv/romantudor" target = "_blank">
+<a href = "https://www.twitch.tv/romantudorofficial" target = "_blank">
     <img src = "Logos/Twitch.png" width = "auto" height = "50px" />
 </a>
 
